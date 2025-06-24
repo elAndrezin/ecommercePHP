@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'elandrezin/ecommerce',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => 'b62c8cee9c2fe779d77711e8b3ae34e095e64678',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'elandrezin/ecommerce' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'b62c8cee9c2fe779d77711e8b3ae34e095e64678',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
