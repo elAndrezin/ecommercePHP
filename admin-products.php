@@ -91,7 +91,7 @@ $app->post("/admin/products/:idproduct", function ($idproduct) {
 
     $product->setData($_POST);
 
-    $product->save();
+    $product->save(); 
 
     $product->setPhoto($_FILES["file"]);
 
